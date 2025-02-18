@@ -1,19 +1,23 @@
-- João Felipe Morais de Oiveira
-- Vinicius Ribeiro
-- Vinicius Ballestero
+# Paises
+### Grupo Motor valvula16 Corsa 1.4 Placa ARZ4835 -->Nomes:
+* Guilherme Cirelli (Estados Unidos)
+* Guilherme Duarte (Mexico)
+* Pedro Henrique (Japao)
+* Joao Felipe (India)
+* Vinicius Ribeiro (Canada)
 
-# Pontos Turísticos da Índia
+### (índia)
 
 ## Taj Mahal
-![Taj Mahal](https://example.com/taj-mahal.jpg)
+
 O Taj Mahal é um mausoléu de mármore branco localizado em Agra. É uma das sete maravilhas do mundo moderno e um símbolo do amor eterno.
 
 ## Forte de Amber
-![Forte de Amber](https://example.com/forte-amber.jpg)
+
 O Forte de Amber é um palácio localizado em Jaipur. É conhecido por sua arquitetura grandiosa e vistas deslumbrantes.
 
 ## Varanasi
-![Varanasi](https://example.com/varanasi.jpg)
+
 Varanasi é uma das cidades mais antigas do mundo, situada às margens do rio Ganges. É um importante centro espiritual e cultural da Índia.
 
 ## Curiosidades
