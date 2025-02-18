@@ -3,4 +3,4 @@
 - Vinicius Ballestero
 
 # Paises-do-Mundo
-Alguns dos países do mundo e seus pontos turísticos
+Um pouco sobre alguns dos países ao redor do mundo e seus pontos turísticos
